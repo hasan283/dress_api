@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "name": "Zara Floral Midi Dress",
+    "tag": "casual chic",
+    "description": "Lightweight floral print midi dress with a flowy silhouette, perfect for spring and summer outings.",
+    "image": "https://i.ibb.co.com/QvNM5QR8/dress1.png",
+    "price": 79,
+    "currency": "USD",
+    "rating": 4.6,
+    "date": "2025-01-12"
+  },
+  {
+    "id": 2,
+    "name": "H&M Satin Slip Dress",
+    "tag": "minimalist elegant",
+    "description": "Sleek satin slip dress with adjustable straps, versatile for layering or evening wear.",
+    "image": "https://i.ibb.co.com/qMYqMNY3/dress2.png",
+    "price": 59,
+    "currency": "USD",
+    "rating": 4.5,
+    "date": "2025-01-15"
+  },
+  {
+    "id": 3,
+    "name": "Mango Linen Wrap Dress",
+    "tag": "summer essential",
+    "description": "Breathable linen wrap dress with V-neckline and waist tie, designed for warm-weather comfort.",
+    "image": "https://i.ibb.co.com/LDFYt1YF/dress3.png",
+    "price": 85,
+    "currency": "USD",
+    "rating": 4.7,
+    "date": "2025-01-20"
+  },
+  {
+    "id": 4,
+    "name": "Reformation Velvet Maxi Dress",
+    "tag": "evening luxury",
+    "description": "Elegant velvet maxi dress with a fitted bodice and thigh-high slit for formal occasions.",
+    "image": "https://i.ibb.co.com/XZdZyj8M/dress4.png",
+    "price": 248,
+    "currency": "USD",
+    "rating": 4.8,
+    "date": "2025-01-25"
+  },
+  {
+    "id": 5,
+    "name": "ASOS Sequin Party Dress",
+    "tag": "night out",
+    "description": "Shimmering mini dress covered in sequins, designed to stand out at parties and events.",
+    "image": "https://i.ibb.co.com/qLZmz0CX/dress5.png",
+    "price": 120,
+    "currency": "USD",
+    "rating": 4.6,
+    "date": "2025-02-01"
+  },
+  {
+    "id": 6,
+    "name": "Free People Boho Maxi Dress",
+    "tag": "bohemian style",
+    "description": "Flowy maxi dress with boho-inspired prints, wide sleeves, and relaxed fit.",
+    "image": "https://i.ibb.co.com/wh2g2CwQ/dress6.png",
+    "price": 168,
+    "currency": "USD",
+    "rating": 4.7,
+    "date": "2025-02-05"
+  },
+  {
+    "id": 7,
+    "name": "Dior Lady Dior Cocktail Dress",
+    "tag": "designer couture",
+    "description": "Luxury Dior cocktail dress with elegant tailoring, crafted for timeless sophistication.",
+    "image": "https://i.ibb.co.com/nMYGDqkR/dress7.png",
+    "price": 3200,
+    "currency": "USD",
+    "rating": 5.0,
+    "date": "2025-02-10"
+  },
+  {
+    "id": 8,
+    "name": "Chanel Tweed Mini Dress",
+    "tag": "classic designer",
+    "description": "Signature Chanel tweed mini dress with pearl buttons and elegant tailoring.",
+    "image": "https://i.ibb.co.com/1tjPp0DC/dress8.png",
+    "price": 4500,
+    "currency": "USD",
+    "rating": 5.0,
+    "date": "2025-02-15"
+  }
+]
